@@ -1,10 +1,10 @@
-# web-document-discourse-parsing
+# WebDP: Web-Document-Discourse-Parsing
 
-This is the repository of web document discourse parsing.
+This is the repository of web document discourse parsing, source code of a paper to be published at findings of ACL 2023. In this paper we proposed a new task named WebDP, for facilitating research on discourse parsing of current-days' web-documents on the internet, revealing their free-styled discourse organization and leaveraging their semi-structured information.
 
 Our code and data will be coming soon.
 
-# requirements
+# Requirements
 ```
  conda create --name [environment_name] python==3.9
  
@@ -15,7 +15,7 @@ Our code and data will be coming soon.
  conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 ```
 
-# train and evaluate models
+# Train and Evaluate Models
 After set up the requirements, you can train and evaluate the models to reproduce the results in our paper by:
 
  ```python train.py [model_name] --[training_options]```
@@ -28,7 +28,7 @@ where [model_name] can be one of the followings:
 - `damt` for DAMT model in the paper [(Fan et al., 2022)](https://aclanthology.org/2022.coling-1.76/)
 
 
-# data
+# Data
 We would like to distribute the data by applying, you can connect me at liupeilin2020@iscas.ac.cn to get the annotated data.
 
 After getting the data, you can unzip the compressed file into `data` folder, there should be 3 splits of data in 3 folders, `data/train`, `data/dev` and `data/test`, respectively.
