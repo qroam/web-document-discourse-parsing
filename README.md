@@ -1,6 +1,8 @@
 # WebDP: Web-Document-Discourse-Parsing
 
-This is the repository of web document discourse parsing, source code of a paper to be published at findings of ACL 2023. In this paper we proposed a new task named WebDP, for facilitating research on discourse parsing of current-days' web-documents on the internet, revealing their free-styled discourse organization and leaveraging their semi-structured information.
+This is the repository of web document discourse parsing, source code of a paper to be published at findings of ACL 2023. 
+
+In this paper, we proposed a new task named WebDP for facilitating research on discourse parsing of current-days' web-documents on the internet, revealing their free-styled discourse organization and leaveraging their semi-structured information.
 
 Our code and data will be coming soon.
 
@@ -34,4 +36,3 @@ We would like to distribute the data by applying, you can connect me at liupeili
 After getting the data, you can unzip the compressed file into `data` folder, there should be 3 splits of data in 3 folders, `data/train`, `data/dev` and `data/test`, respectively.
 
 # Citation
-Please cite:
