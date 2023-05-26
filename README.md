@@ -12,7 +12,7 @@ Our code and data will be coming soon.
  
  conda activate [environment_name]
 
- pip install -r pip_requirements.txt
+ pip install -r requirements.txt
 
  conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 ```
