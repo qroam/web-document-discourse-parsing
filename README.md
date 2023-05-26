@@ -20,10 +20,10 @@ After set up the requirements, you can train and evaluate the models by:
  
 where [model_name] can be one of the following:
 - `baseline` for NodeBased model in the paper, a naive implementation for the task
-- `deepseq` for DeepSeq model (Shi and Huang, 2019)[https://aaai.org/papers/07007-a-deep-sequential-model-for-discourse-parsing-on-multi-party-dialogues/]
-- `putorskip` for Put-or-Skip model (Cao et al., 2022)[https://link.springer.com/article/10.1007/s11390-021-1076-7]
-- `ssa` for SSAGNN model  (Wang et al., 2021)[https://www.ijcai.org/proceedings/2021/543]
-- `damt` for DAMT model in the paper (Fan et al., 2022)[https://aclanthology.org/2022.coling-1.76/]
+- `deepseq` for DeepSeq model [Shi and Huang, 2019](https://aaai.org/papers/07007-a-deep-sequential-model-for-discourse-parsing-on-multi-party-dialogues/)
+- `putorskip` for Put-or-Skip model [Cao et al., 2022](https://link.springer.com/article/10.1007/s11390-021-1076-7)
+- `ssa` for SSAGNN model  [Wang et al., 2021](https://www.ijcai.org/proceedings/2021/543)
+- `damt` for DAMT model in the paper [Fan et al., 2022](https://aclanthology.org/2022.coling-1.76/)
 
 # experimental results
 
