@@ -7,6 +7,8 @@ Our code and data will be coming soon.
 # requirements
 ```
  conda create --name [environment_name] python==3.9
+ 
+ conda activate [environment_name]
 
  pip install -r pip_requirements.txt
 
