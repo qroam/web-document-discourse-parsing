@@ -1,0 +1,1 @@
+from visualization.structure_generator_new import main as subdiscourse_parser
