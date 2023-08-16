@@ -35,7 +35,7 @@ where [model_name] can be one of the followings:
 
 # Data
 
-We would like to distribute the data through applications, you can connect me at githubuser@qq.com to get the annotated data.
+We would like to distribute the data through applications, you can contact me at githubuser@qq.com to get the annotated data.
 
 After getting the data, you can unzip the compressed file into `data` folder, there should be 3 splits of data in 3 folders, `data/train`, `data/dev` and `data/test`, respectively.
 
